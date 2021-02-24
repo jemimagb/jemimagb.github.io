@@ -1,1 +1,2 @@
-# jemimagb.github.io
+# Teaching Climate Science Through Computer Science
+
