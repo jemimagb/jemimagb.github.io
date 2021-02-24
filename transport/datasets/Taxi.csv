@@ -1,0 +1,5 @@
+﻿ID,Year,Activity,Type,Unit,kg CO2e,kg CO2,kg CH4,kg N2O
+1,2020,Taxis,Regular taxi,passengerkm,  0.14549 ,  0.14418 ,  0.000002,  0.00131 
+2,2020,Taxis,Regular taxi,km,  0.20369 ,  0.20185 ,  0.000003,  0.00184 
+3,2020,Taxis,Black cab,passengerkm,  0.20793 ,  0.20671 ,  0.000002,  0.00122 
+4,2020,Taxis,Black cab,km,  0.31191 ,  0.31007 ,  0.000003,  0.00184 

@@ -1,0 +1,91 @@
+﻿ID,Year,Activity,Fuel,Type,Unit,kg CO2e,kg CO2,kg CH4,kg N2O
+1,2020,Cars (by market segment),Diesel,Mini,km,  0.10837 ,  0.10653 ,  0.000003,  0.00184 
+2,2020,Cars (by market segment),Diesel,Mini,miles,  0.17442 ,  0.17145 ,  0.00001 ,  0.00296 
+3,2020,Cars (by market segment),Diesel,Supermini,km,  0.1308  ,  0.12896 ,  0.000003,  0.00184 
+4,2020,Cars (by market segment),Diesel,Supermini,miles,  0.21051 ,  0.20754 ,  0.00001 ,  0.00296 
+5,2020,Cars (by market segment),Diesel,Lower medium,km,  0.14197 ,  0.14013 ,  0.000003,  0.00184 
+6,2020,Cars (by market segment),Diesel,Lower medium,miles,  0.22849 ,  0.22552 ,  0.00001 ,  0.00296 
+7,2020,Cars (by market segment),Diesel,Upper medium,km,  0.16098 ,  0.15914 ,  0.000003,  0.00184 
+8,2020,Cars (by market segment),Diesel,Upper medium,miles,  0.25907 ,  0.2561  ,  0.00001 ,  0.00296 
+9,2020,Cars (by market segment),Diesel,Executive,km,  0.16735 ,  0.16551 ,  0.000003,  0.00184 
+10,2020,Cars (by market segment),Diesel,Executive,miles,  0.26934 ,  0.26637 ,  0.00001 ,  0.00296 
+11,2020,Cars (by market segment),Diesel,Luxury,km,  0.20198 ,  0.20014 ,  0.000003,  0.00184 
+12,2020,Cars (by market segment),Diesel,Luxury,miles,  0.32506 ,  0.32209 ,  0.00001 ,  0.00296 
+13,2020,Cars (by market segment),Diesel,Sports,km,  0.16996 ,  0.16812 ,  0.000003,  0.00184 
+14,2020,Cars (by market segment),Diesel,Sports,miles,  0.27353 ,  0.27056 ,  0.00001 ,  0.00296 
+15,2020,Cars (by market segment),Diesel,Dual purpose 4X4,km,  0.19141 ,  0.18957 ,  0.000003,  0.00184 
+16,2020,Cars (by market segment),Diesel,Dual purpose 4X4,miles,  0.30805 ,  0.30508 ,  0.00001 ,  0.00296 
+17,2020,Cars (by market segment),Diesel,MPV,km,  0.17627 ,  0.17443 ,  0.000003,  0.00184 
+18,2020,Cars (by market segment),Diesel,MPV,miles,  0.28369 ,  0.28072 ,  0.00001 ,  0.00296 
+19,2020,Cars (by market segment),Petrol,Mini,km,  0.13525 ,  0.13458 ,  0.00031 ,  0.00036 
+20,2020,Cars (by market segment),Petrol,Mini,miles,  0.21767 ,  0.21658 ,  0.0005  ,  0.00059 
+21,2020,Cars (by market segment),Petrol,Supermini,km,  0.15017 ,  0.1495  ,  0.00031 ,  0.00036 
+22,2020,Cars (by market segment),Petrol,Supermini,miles,  0.24168 ,  0.24059 ,  0.0005  ,  0.00059 
+23,2020,Cars (by market segment),Petrol,Lower medium,km,  0.17343 ,  0.17276 ,  0.00031 ,  0.00036 
+24,2020,Cars (by market segment),Petrol,Lower medium,miles,  0.27912 ,  0.27803 ,  0.0005  ,  0.00059 
+25,2020,Cars (by market segment),Petrol,Upper medium,km,  0.20161 ,  0.20094 ,  0.00031 ,  0.00036 
+26,2020,Cars (by market segment),Petrol,Upper medium,miles,  0.32447 ,  0.32338 ,  0.0005  ,  0.00059 
+27,2020,Cars (by market segment),Petrol,Executive,km,  0.22699 ,  0.22632 ,  0.00031 ,  0.00036 
+28,2020,Cars (by market segment),Petrol,Executive,miles,  0.36532 ,  0.36423 ,  0.0005  ,  0.00059 
+29,2020,Cars (by market segment),Petrol,Luxury,km,  0.32797 ,  0.3273  ,  0.00031 ,  0.00036 
+30,2020,Cars (by market segment),Petrol,Luxury,miles,  0.52783 ,  0.52674 ,  0.0005  ,  0.00059 
+31,2020,Cars (by market segment),Petrol,Sports,km,  0.24096 ,  0.24029 ,  0.00031 ,  0.00036 
+32,2020,Cars (by market segment),Petrol,Sports,miles,  0.38779 ,  0.3867  ,  0.0005  ,  0.00059 
+33,2020,Cars (by market segment),Petrol,Dual purpose 4X4,km,  0.21844 ,  0.21777 ,  0.00031 ,  0.00036 
+34,2020,Cars (by market segment),Petrol,Dual purpose 4X4,miles,  0.35156 ,  0.35047 ,  0.0005  ,  0.00059 
+35,2020,Cars (by market segment),Petrol,MPV,km,  0.19351 ,  0.19284 ,  0.00031 ,  0.00036 
+36,2020,Cars (by market segment),Petrol,MPV,miles,  0.31144 ,  0.31035 ,  0.0005  ,  0.00059 
+37,2020,Cars (by market segment),Unknown,Mini,km,  0.13513 ,  0.13445 ,  0.00031 ,  0.00037 
+38,2020,Cars (by market segment),Unknown,Mini,miles,  0.21747 ,  0.21637 ,  0.0005  ,  0.0006  
+39,2020,Cars (by market segment),Unknown,Supermini,km,  0.14778 ,  0.14697 ,  0.00027 ,  0.00054 
+40,2020,Cars (by market segment),Unknown,Supermini,miles,  0.23785 ,  0.23653 ,  0.00044 ,  0.00088 
+41,2020,Cars (by market segment),Unknown,Lower medium,km,  0.15819 ,  0.15695 ,  0.00016 ,  0.00108 
+42,2020,Cars (by market segment),Unknown,Lower medium,miles,  0.25458 ,  0.25259 ,  0.00026 ,  0.00173 
+43,2020,Cars (by market segment),Unknown,Upper medium,km,  0.17052 ,  0.16895 ,  0.00008 ,  0.00149 
+44,2020,Cars (by market segment),Unknown,Upper medium,miles,  0.27441 ,  0.27189 ,  0.00012 ,  0.0024  
+45,2020,Cars (by market segment),Unknown,Executive,km,  0.1803  ,  0.17871 ,  0.00007 ,  0.00152 
+46,2020,Cars (by market segment),Unknown,Executive,miles,  0.29016 ,  0.28761 ,  0.00011 ,  0.00244 
+47,2020,Cars (by market segment),Unknown,Luxury,km,  0.25454 ,  0.25319 ,  0.00013 ,  0.00122 
+48,2020,Cars (by market segment),Unknown,Luxury,miles,  0.40965 ,  0.40747 ,  0.00021 ,  0.00197 
+49,2020,Cars (by market segment),Unknown,Sports,km,  0.23029 ,  0.22945 ,  0.00026 ,  0.00058 
+50,2020,Cars (by market segment),Unknown,Sports,miles,  0.37064 ,  0.36927 ,  0.00043 ,  0.00094 
+51,2020,Cars (by market segment),Unknown,Dual purpose 4X4,km,  0.19784 ,  0.19627 ,  0.00008 ,  0.00149 
+52,2020,Cars (by market segment),Unknown,Dual purpose 4X4,miles,  0.31837 ,  0.31586 ,  0.00012 ,  0.00239 
+53,2020,Cars (by market segment),Unknown,MPV,km,  0.18086 ,  0.17932 ,  0.00009 ,  0.00145 
+54,2020,Cars (by market segment),Unknown,MPV,miles,  0.29106 ,  0.28859 ,  0.00014 ,  0.00233 
+55,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Mini,km,,,,
+56,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Mini,miles,,,,
+57,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Supermini,km,  0.02235 ,  0.02222 ,  0.00007 ,  0.00006 
+58,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Supermini,miles,  0.03597 ,  0.03576 ,  0.00011 ,  0.0001  
+59,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Lower medium,km,  0.06588 ,  0.0655  ,  0.0002  ,  0.00018 
+60,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Lower medium,miles,  0.10603 ,  0.10541 ,  0.00033 ,  0.00029 
+61,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Upper medium,km,  0.07309 ,  0.07265 ,  0.00022 ,  0.00022 
+62,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Upper medium,miles,  0.11762 ,  0.11691 ,  0.00035 ,  0.00036 
+63,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Executive,km,  0.0738  ,  0.07337 ,  0.00023 ,  0.0002  
+64,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Executive,miles,  0.11878 ,  0.11808 ,  0.00037 ,  0.00033 
+65,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Luxury,km,  0.09285 ,  0.0923  ,  0.00029 ,  0.00026 
+66,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Luxury,miles,  0.14941 ,  0.14854 ,  0.00046 ,  0.00041 
+67,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Sports,km,  0.0773  ,  0.07685 ,  0.00024 ,  0.00021 
+68,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Sports,miles,  0.1244  ,  0.12367 ,  0.00038 ,  0.00035 
+69,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Dual purpose 4X4,km,  0.07503 ,  0.07458 ,  0.00023 ,  0.00022 
+70,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,Dual purpose 4X4,miles,  0.12074 ,  0.12002 ,  0.00037 ,  0.00035 
+71,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,MPV,km,,,,
+72,2020,Cars (by market segment),Plug-in Hybrid Electric Vehicle,MPV,miles,,,,
+73,2020,Cars (by market segment),Battery Electric Vehicle,Mini,km,  0.0     ,  0.0     ,  0.0     ,  0.0     
+74,2020,Cars (by market segment),Battery Electric Vehicle,Mini,miles,  0.0     ,  0.0     ,  0.0     ,  0.0     
+75,2020,Cars (by market segment),Battery Electric Vehicle,Supermini,km,  0.0     ,  0.0     ,  0.0     ,  0.0     
+76,2020,Cars (by market segment),Battery Electric Vehicle,Supermini,miles,  0.0     ,  0.0     ,  0.0     ,  0.0     
+77,2020,Cars (by market segment),Battery Electric Vehicle,Lower medium,km,  0.0     ,  0.0     ,  0.0     ,  0.0     
+78,2020,Cars (by market segment),Battery Electric Vehicle,Lower medium,miles,  0.0     ,  0.0     ,  0.0     ,  0.0     
+79,2020,Cars (by market segment),Battery Electric Vehicle,Upper medium,km,  0.0     ,  0.0     ,  0.0     ,  0.0     
+80,2020,Cars (by market segment),Battery Electric Vehicle,Upper medium,miles,  0.0     ,  0.0     ,  0.0     ,  0.0     
+81,2020,Cars (by market segment),Battery Electric Vehicle,Executive,km,,,,
+82,2020,Cars (by market segment),Battery Electric Vehicle,Executive,miles,,,,
+83,2020,Cars (by market segment),Battery Electric Vehicle,Luxury,km,  0.0     ,  0.0     ,  0.0     ,  0.0     
+84,2020,Cars (by market segment),Battery Electric Vehicle,Luxury,miles,  0.0     ,  0.0     ,  0.0     ,  0.0     
+85,2020,Cars (by market segment),Battery Electric Vehicle,Sports,km,  0.0     ,  0.0     ,  0.0     ,  0.0     
+86,2020,Cars (by market segment),Battery Electric Vehicle,Sports,miles,  0.0     ,  0.0     ,  0.0     ,  0.0     
+87,2020,Cars (by market segment),Battery Electric Vehicle,Dual purpose 4X4,km,  0.0     ,  0.0     ,  0.0     ,  0.0     
+88,2020,Cars (by market segment),Battery Electric Vehicle,Dual purpose 4X4,miles,  0.0     ,  0.0     ,  0.0     ,  0.0     
+89,2020,Cars (by market segment),Battery Electric Vehicle,MPV,km,  0.0     ,  0.0     ,  0.0     ,  0.0     
+90,2020,Cars (by market segment),Battery Electric Vehicle,MPV,miles,  0.0     ,  0.0     ,  0.0     ,  0.0     

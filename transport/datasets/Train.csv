@@ -1,0 +1,5 @@
+﻿ID,Year,Activity,Type,Unit,kg CO2e,kg CO2,kg CH4,kg N2O
+1,2020,Rail,National rail,passengerkm,  0.03694 ,  0.03659 ,  0.00006 ,  0.00029 
+2,2020,Rail,International rail,passengerkm,  0.00497 ,  0.00492 ,  0.00002 ,  0.00003 
+3,2020,Rail,Light rail and tram,passengerkm,  0.02991 ,  0.02964 ,  0.00009 ,  0.00018 
+4,2020,Rail,London Underground,passengerkm,  0.0275  ,  0.02726 ,  0.00008 ,  0.00016 

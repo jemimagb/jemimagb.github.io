@@ -1,0 +1,9 @@
+﻿ID,Year,Activity,Type,Unit,kg CO2e,kg CO2,kg CH4,kg N2O
+1,2020,Motorbike,Small,km,  0.08277 ,  0.08086 ,  0.00161 ,  0.0003  
+2,2020,Motorbike,Small,miles,  0.13321 ,  0.13013 ,  0.0026  ,  0.00048 
+3,2020,Motorbike,Medium,km,  0.10086 ,  0.09816 ,  0.0021  ,  0.0006  
+4,2020,Motorbike,Medium,miles,  0.1623  ,  0.15797 ,  0.00337 ,  0.00096 
+5,2020,Motorbike,Large,km,  0.13237 ,  0.13058 ,  0.00119 ,  0.0006  
+6,2020,Motorbike,Large,miles,  0.21302 ,  0.21015 ,  0.00191 ,  0.00096 
+7,2020,Motorbike,Average,km,  0.11337 ,  0.11115 ,  0.00163 ,  0.00059 
+8,2020,Motorbike,Average,miles,  0.18245 ,  0.17887 ,  0.00263 ,  0.00095 
